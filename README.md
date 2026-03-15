@@ -189,7 +189,7 @@ GitHub
 https://github.com/Awais007khan
 
 LinkedIn
-(Add your LinkedIn profile link)
+(https://www.linkedin.com/in/awaiskhan-dev/)
 
 ---
 
